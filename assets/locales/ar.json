@@ -1,0 +1,14 @@
+{
+  "SERVER_UNREACHABLE": "غير قادر علي الوصول الي الخادم يرجي المحاولة لاحقا",
+  "APP_NAME": "Dream Car",
+  "BOTTOM_BAR_AGENCIES_TITLE": "الوكالات",
+  "BOTTOM_BAR_SERVICES_TITLE": "الخدمات",
+  "BOTTOM_BAR_PRICING_TITLE": "التثمين",
+  "BOTTOM_BAR_INSURANCE_TITLE": "التأمين",
+  "BROWSE_BY_TYPE": "تصفح حسب نوع السياره",
+  "VIEW_ALL_LABEL": "الكل",
+  "PRICE_START_FROM_WITH_PRICE": "السعر يبدأ من {} ح.م",
+  "NEW_FROM_AGENCIES": "جديد الوكالات",
+  "VIDEOS_LABEL": "فيديو"
+}
+

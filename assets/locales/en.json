@@ -1,0 +1,17 @@
+{
+  "SERVER_UNREACHABLE": "Unable to communicate with server",
+  "APP_NAME": "Dream Car",
+  "BOTTOM_BAR_AGENCIES_TITLE": "Agencies",
+  "BOTTOM_BAR_SERVICES_TITLE": "Services",
+  "BOTTOM_BAR_PRICING_TITLE": "Pricing",
+  "BOTTOM_BAR_INSURANCE_TITLE": "Insurance",
+
+  "BROWSE_BY_TYPE": "Browse by type",
+  "VIEW_ALL_LABEL": "All",
+  "PRICE_START_FROM_WITH_PRICE": "Price start from {} LE",
+  "NEW_FROM_AGENCIES": "New From agents",
+  "VIDEOS_LABEL": "Videos"
+
+}
+
+
